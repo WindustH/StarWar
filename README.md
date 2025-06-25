@@ -1,5 +1,6 @@
 # StarWar
 StarWar game using javascript
+from xjtu cs2402 黄嘉涵
 
 ## 如何运行？
 不要直接运行 `index.html` 文件
